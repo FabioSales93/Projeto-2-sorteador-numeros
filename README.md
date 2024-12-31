@@ -16,4 +16,4 @@
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/190669151?v=4" width=115><br><sub>Fabio Sales</sub>](https://github.com/FabioSales93) |
 | :---: |
 
-// Código omitido. 
+
